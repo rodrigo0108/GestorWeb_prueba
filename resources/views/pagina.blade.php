@@ -1,1 +1,2 @@
-<h2>Sección Otra pagina</h2>
+<h2>Sección Otra pagina
+primer commit</h2>
